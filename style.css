@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+}
+.text{
+    display: block;
+    float: center;
+    width:70%;
+    margin:0 auto;
+    padding: 50px 0;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.neodredena{
+    display: block;
+    float: left;
+    width:50%;
+}
+.odredena{
+    display: block;
+    float: right;
+    width:50%;
+
+}
+.img{
+   margin: 0 auto;
+    padding: 0 570px; 
+}
+.container-lg{
+    width: 80%;
+    display: block;
+    float: center;
+    margin: 0 auto;
+}
+.card{
+    margin: 0 auto;
+    width: 95%;
+    display: block;
+    float: center;
+}
